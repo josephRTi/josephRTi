@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josephRTi 
-- 👀 I’m interested in web development & statistics
+- 👀 I’m interested in web development & statistics & craping
 - 🌱 I’m currently learning Python (Django, DjangoREST) & Vue.js for wed-development
 
 <!---
